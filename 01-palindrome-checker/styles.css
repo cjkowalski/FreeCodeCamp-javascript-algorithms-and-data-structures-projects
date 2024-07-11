@@ -1,0 +1,83 @@
+
+
+body {
+  background-color: #F0F7F4;
+  font-family: PT Mono;
+}
+
+h1 {
+  margin: 40px;
+  text-align: center;
+  font-family: "Prata", serif;
+  font-size: 4em;
+  color: #6a7770;
+}
+
+.main-box {
+  background-color: #7E8D85;
+  padding: 40px;
+  width: 400px;
+  border-radius: 10px;
+  text-align: center;
+  margin: 0 auto;
+  color: #3C493F;
+  box-shadow: 0px 0px 30px #3c493f64;
+}
+
+#text-input, #check-btn {
+  margin-top: 10px;
+  height: 26px
+}
+
+#text-input {
+  width: 200px;
+  background-color: #6a7770;
+  border: 0;
+}
+
+#check-btn {
+  width: 80px;
+  background-color: #3C493F;
+  color: white;
+  border: 0;
+  border-radius: 7px;
+  font-family: PT Mono;
+  font-size: .7em;
+
+}
+
+.hint {
+  background-color: #B3BFB8;
+  font-family: sans-serif;
+  color: #6a7770;
+  padding: 20px;
+  width: 500px;
+  margin: 30px auto;
+  border-radius: 10px;
+  display: flex;
+  box-shadow: 0px 0px 20px #3c493f2c;
+
+}
+
+.material-symbols-outlined {
+  padding: 8px;
+  padding-top: 0;
+  margin-top: 0;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#result {
+  margin-top: 20px;
+  color: white;
+  font-size: 1.2em;
+}
