@@ -1,4 +1,4 @@
-# freeCodeCamp Project 03: Cash Register
+# freeCodeCamp Project 04: Cash Register
 
 This JavaScript project exemplifies fundamental programming concepts essential for interactive web applications, specifically focusing on managing cash register transactions. Key learnings include mastering variable declaration and initialization using let and const, which were used to store diverse data types such as numbers, arrays (cid and labels), and references to HTML elements obtained via document.getElementById.
 
